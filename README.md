@@ -1,3 +1,4 @@
+
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=markopetrov1&" alt="markopetrov1" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=markopetrov1&show_icons=true&locale=en&layout=compact" alt="markopetrov1" />
 <br/>
@@ -20,6 +21,10 @@
     </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
+<p>
+
+<p > <img src="https://komarev.com/ghpvc/?username=markopetrov1&label=Profile%20views&color=0e75b6&style=flat" alt="markopetrov1" /> </p>
+
 </div>
 
 
